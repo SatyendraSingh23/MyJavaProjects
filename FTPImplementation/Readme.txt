@@ -6,7 +6,7 @@
 
 Methods to use  :
 
-                 Their are to file present names FTServerFrame (for the server end) and FTClientFrame(for the client end).
+                 Here, two files is presented name FTServerFrame (for the server end) and FTClientFrame(for the client end).
                  Exceute FTServerFrame (java FTServerFrame) first and press start.
 
 Start FTClientFrame (java FTClientFrame) and add some files to transfer and then press start.
